@@ -1,0 +1,10 @@
+:root{
+    --text_color1: #86ba09;
+    --text_color2: rgba(102,102,102,0.85);
+    
+    --text_size-sm: 13px;
+    --text_size-md: 15px;
+    --text_size-lg: 18px;
+    --text_size-xl:35px; 
+    --icon_size: 18px;
+}
